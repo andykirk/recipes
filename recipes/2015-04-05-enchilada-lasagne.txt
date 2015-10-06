@@ -8,6 +8,8 @@
 "prep_time"   : "",
 "total_time"  : "40 minutes",
 "yield"       : "Serves 4",
+
+
 "ingredients" : "
 
 * olive oil
@@ -28,10 +30,12 @@
 * ~200g cheddar cheese, grated
 
 ",
+
+
 "instructions" : "
 
 For the sauce
-===========
+=============
 
 1. Cook onions and garlic in the olive oil until nearly soft.
 2. Add the spices and cook for 1-2 minutes.
@@ -41,7 +45,7 @@ For the sauce
 6. Allow to simmer about about 10 minutes, adding cornflour mix to thicken if necessary.
 
 Meanwhile
-========
+=========
 
 While the sauce is bubbling away, grease a lasagne dish with the butter and lay in 4 tortillas, making sure they overlap and cover the sides of the dish. Set the other 4 tortillas aside for the moment, and turn the oven on to pre-heat at gas 5.
 
@@ -51,9 +55,12 @@ Then
 1. When the sauce is ready, carefully pour half of it into the lasagne dish, then lay the other tortillas on top to make a base for the second layer.
 2. Pour in the remaining sauce and cover with the cheese.
 3. Put in the over for around 10 minutes or until the cheese is melted, making sure that the tortillas aren't getting burnt.
+
 ",
-"notes" : "
-"
+
+
+"notes" : ""
+
 }
 
 This recipe is my own invention. Well, at least, I took an Enchilada recipe from somewhere and rearranged it make assembling it easier.
