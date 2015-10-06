@@ -7,10 +7,14 @@
 "cook_time"   : "",
 "prep_time"   : "",
 "total_time"  : "20 minutes",
-"yield"       : "Serves 2-3",
+"yield"       : "Serves 2-3"
+}
+
+This recipe was adapted from the one on a Schwartz spice mix packet.
 
 
-"ingredients" : "
+Ingredients
+===========
 
 * garlic oil
 * 1 red onion, sliced
@@ -24,25 +28,18 @@
 * milk for thinning
 * enough spaghetti
 
-",
 
+Instructions
+============
 
-"instructions" : "
-
-1. Put the water for the spaghetti on to boil and cook spaghetti when the water is ready ready.
+1. Put the water for the spaghetti on to boil and cook spaghetti when the water is ready.
 2. Meanwhile, cook onions in the garlic oil until nearly soft.
 3. Add pepper, oregano and seeds and cook for 2-3 minutes.
 4. Add in tuna, cream, butter and tomato purée and mix well.
 5. Cook for about 10 minutes, using milk to thin the mixture if it gets too thick.
 
-",
 
-
-"notes" : "
+Notes
+=====
 
 Great when covered in grated parmesan!
-
-"
-}
-
-This recipe was adapted from the one on a Schwartz spice mix packet.#
