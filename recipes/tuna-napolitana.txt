@@ -6,8 +6,8 @@
 "category"    : "Italian",
 "cook_time"   : "",
 "prep_time"   : "",
-"total_time"  : "",
-"yield"       : "",
+"total_time"  : "20 minutes",
+"yield"       : "Serves 2-3",
 "ingredients" : "
 
 * garlic oil
@@ -39,4 +39,4 @@ Great when covered in grated parmesan!
 "
 }
 
-This recipe was adapted from the one on a Schwartz spice mix packet.
+This recipe was adapted from the one on a Schwartz spice mix packet.#

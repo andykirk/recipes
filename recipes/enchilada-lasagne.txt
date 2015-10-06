@@ -1,0 +1,59 @@
+{
+"title"       : "Enchilada Lasagne",
+"author"      : "Andy",
+"date"        : "2015-04-05",
+"tag"         : "chicken,cream",
+"category"    : "Mexican",
+"cook_time"   : "",
+"prep_time"   : "",
+"total_time"  : "40 minutes",
+"yield"       : "Serves 4",
+"ingredients" : "
+
+* olive oil
+* 1 onion, finely chopped
+* 2-3 garlic cloves, finely chopped
+* 1 tsp ground cumin
+* 1 tsp ground coriander
+* 1-3 tsps chilli powder to taste
+* juice of 1 lime
+* 2 chicken breasts, cut into bite-sized pieces
+* 1 red pepper, sliced
+* 1 can tinned tomatoes (~420g)
+* ~150ml single cream
+* ~50g tomato purÃ©e
+* 1-2 tsp cornflour mixed with 1-2 tsp cold water (if needed)
+* 8 flour tortilla wraps
+* knob of butter
+* ~200g cheddar cheese, grated
+
+",
+"instructions" : "
+
+For the sauce
+===========
+
+1. Cook onions and garlic in the olive oil until nearly soft.
+2. Add the spices and cook for 1-2 minutes.
+3. Add the chicken pieces and lime juice and cook for about 10 minutes or until browned all over.
+4. Add the pepper slices and cook until soft.
+5. Add cream, tomatoes and tomato purÃ©e and mix well.
+6. Allow to simmer about about 10 minutes, adding cornflour mix to thicken if necessary.
+
+Meanwhile
+========
+
+While the sauce is bubbling away, grease a lasagne dish with the butter and lay in 4 tortillas, making sure they overlap and cover the sides of the dish. Set the other 4 tortillas aside for the moment, and turn the oven on to pre-heat at gas 5.
+
+Then
+====
+
+1. When the sauce is ready, carefully pour half of it into the lasagne dish, then lay the other tortillas on top to make a base for the second layer.
+2. Pour in the remaining sauce and cover with the cheese.
+3. Put in the over for around 10 minutes or until the cheese is melted, making sure that the tortillas aren't getting burnt.
+",
+"notes" : "
+"
+}
+
+This recipe is my own invention. Well, at least, I took an Enchilada recipe from somewhere and rearranged it make assembling it easier.
