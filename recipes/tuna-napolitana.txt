@@ -1,0 +1,42 @@
+{
+"title"       : "Tuna Napolitana",
+"author"      : "Andy",
+"date"        : "2015-03-02",
+"tag"         : "pasta,fish,cream",
+"category"    : "Italian",
+"cook_time"   : "",
+"prep_time"   : "",
+"total_time"  : "",
+"yield"       : "",
+"ingredients" : "
+
+* garlic oil
+* 1 red onion, sliced
+* ground black pepper
+* 1 tsp dried oregano
+* pinch fennel seeds
+* 2 cans tuna
+* ~150ml single cream
+* knob of butter
+* ~50g tomato purée
+* milk for thinning
+* enough spaghetti
+
+",
+"instructions" : "
+
+1. Put the water for the spaghetti on to boil and cook spaghetti when the water is ready ready.
+2. Meanwhile, cook onions in the garlic oil until nearly soft.
+3. Add pepper, oregano and seeds and cook for 2-3 minutes.
+4. Add in tuna, cream, butter and tomato purée and mix well.
+5. Cook for about 10 minutes, using milk to thin the mixture if it gets too thick.
+
+",
+"notes" : "
+
+Great when covered in grated parmesan!
+
+"
+}
+
+This recipe was adapted from the one on a Schwartz spice mix packet.
